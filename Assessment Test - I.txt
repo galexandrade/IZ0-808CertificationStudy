@@ -1,0 +1,33 @@
+ER 1 - F
+ER 2 - A
+ER 3 - D
+ER 4 - B*
+OK 5 - D
+ER 6 - C
+OK 7 - B
+ER 8 - D
+OK 9 - B, C
+ER 10 - B, C, E*
+OK 11 - B
+ER 12 - C
+ER 13 - A
+ER 14 - B
+OK 15 - A, C, E
+ER 16 - F*
++- 17 - A, C, E, F
+ER 18 - A, C
+OK 19 - C
+ER 20 - A, B, C, E
+
+7/20
+
+
+
+3633,3639,3651,3894,4062,4360,4949
+
+
+
+
+
+
+
