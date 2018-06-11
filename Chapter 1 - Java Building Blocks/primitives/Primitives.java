@@ -5,6 +5,10 @@ public class Primitives{
 		
 		long max2 = 123;
 		
+		//PRIMITIVES CANNOT BE NULL
+		//Null means it does not refer to an object, but primitives are not objects
+		int cannotBeNull = null;
+		
 		System.out.println(56); // 56
 		
 		/* ADD Underscores to be easier to read */

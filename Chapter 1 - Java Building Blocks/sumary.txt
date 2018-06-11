@@ -1,0 +1,22 @@
+Java is:
+1 - Object Oriented
+	which means all code is defi ned in classes and most of those classes can be instantiated into objects.
+	
+2 - Encapsulation
+	Java supports access modifi ers to protect data from unintended access and modification.
+	
+3 - Platform Independent
+	Java is an interpreted language because it gets compiled to bytecode.
+
+4 - Robust
+	Java manages memory on its own and does garbage collection automatically.
+
+5 - Simple
+	In addition to eliminating pointers, it got rid of operator overloading.
+	
+6 - Secure 
+	Java code runs inside the JVM.
+	
+	
+	
+	JAVA HAS NOT OPERATOR OVERLOADING AND POINTERS
