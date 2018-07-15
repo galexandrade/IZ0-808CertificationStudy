@@ -23,5 +23,14 @@ public class Operators{
 		System.out.println(counter); // Outputs 1
 		System.out.println(counter--); // Outputs 1
 		System.out.println(counter); // Outputs 0
+		
+		
+		for(int i=0; i<10 ; ) {
+			i = i++;
+			// i = 0 (atribui para 1)
+			// i = 0 depois termina a atribuição que é zero
+			System.out.println("Hello World " + i);
+			break;
+		}
 	}
 }
